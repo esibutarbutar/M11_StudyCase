@@ -1,0 +1,10 @@
+html {
+    background-image: linear-gradient(#121212, #121212);
+    background-attachment: fixed;
+}
+#app h1{
+    color:white;
+}
+#app .label{
+    color: white;
+}
